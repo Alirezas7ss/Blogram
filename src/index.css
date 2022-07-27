@@ -1,3 +1,14 @@
+p code {
+  border: 1px solid rgb(113, 113, 113);
+  padding: 2px;
+  border-radius: 5px;
+}
+pre {
+  border: 1px solid rgb(113, 113, 113);
+  padding: 20px;
+  border-radius: 10px;
+  width: 90vh;
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
